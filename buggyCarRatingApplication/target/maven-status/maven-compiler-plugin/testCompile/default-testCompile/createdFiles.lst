@@ -1,0 +1,4 @@
+base\BaseTest.class
+utilities\ReadpropertyFile.class
+automationTestSuite\AutomationTestCases.class
+automationTestSuite\AutomationTests.class
