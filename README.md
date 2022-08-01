@@ -123,7 +123,7 @@ WebDriver Manager has been set up using the Maven, which provides a cross-browse
       ![image](https://user-images.githubusercontent.com/43629533/169021867-bc66b844-9a09-4429-bd38-80827c23e8f1.png)
 
 
-                                                          ** Get a Candy ;) The END**
+                                                          The END**
       
       
 
