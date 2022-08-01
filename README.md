@@ -1,7 +1,7 @@
 # Test Directions for "Buggy Car Rating" Application
 
 ## **About the project** 
-This project includes manual and automation testing of Buggy Car Rating application https://buggy.justtestit.org/. Instruction to run the fucntional automation test suite and non functional testing using Jmeter tool.
+This project includes manual and automation testing of Buggy Car Rating application https://buggy.justtestit.org/. Instruction to run the fucntional automation test suite uisng selenium and non-functional testing using Jmeter tool.
 
 ## Test Artificates for Manual Testing:
 
